@@ -28,7 +28,12 @@ Tema claro/escuro, janela de estatísticas e manual interno.
 
 ## Compatibilidade
 
-Funciona em ambiente Windows (x86, x64 e ARM64). WebView2 Runtime incluído.
+- Windows 10
+- Windows 11
+- Sistemas x86 e x64
+- Windows ARM64 através de emulação
+
+É necessário o Microsoft Edge WebView2 Runtime.
 
 ## Instalação e execução
 
