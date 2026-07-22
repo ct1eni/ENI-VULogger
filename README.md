@@ -63,8 +63,10 @@ Outro concurso, com fator ×1 em todas as bandas
 
 ## Estado do projeto
 
-Versão em desenvolvimento.
+Versão em desenvolvimento constate.
 
 ## Autor
 
 CT1ENI — José Carlos Valério Ribeiro
+
+https://img.shields.io/github/downloads/CT1ENI/ENI-VULogger/total?style=for-the-badge&logo=github&label=Downloads](https://github.com/CT1ENI/ENI-VULogger/releases)
