@@ -28,12 +28,14 @@ Tema claro/escuro, janela de estatísticas e manual interno.
 
 ## Compatibilidade
 
+O ENI-VULogger é suportado em:
 - Windows 10
 - Windows 11
 - Sistemas x86 e x64
 - Windows ARM64 através de emulação
 
-É necessário o Microsoft Edge WebView2 Runtime.
+O Windows 7 não é oficialmente suportado, devido ao fim do suporte do 
+Microsoft Edge WebView2 Runtime nesse sistema operativo.
 
 ## Instalação e execução
 
@@ -46,6 +48,8 @@ ADIF, EDI, Cabrillo, Excel e JSON.
 ## Concursos suportados
 
 Dia de Portugal VHF/UHF — REP
+
+ARAM VHF/UHF - ARAM
 
 Combinado V/UHF — URE
 
