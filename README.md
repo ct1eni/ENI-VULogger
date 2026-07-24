@@ -29,11 +29,7 @@ O ENI-VULogger é suportado em:
 O Windows 7 não é oficialmente suportado, devido ao fim do suporte do 
 Microsoft Edge WebView2 Runtime nesse sistema operativo.
 
-## Instalação e execução
-
-Instruções da versão portable em elaboração.
-
-## Formatos suportados
+## Formatos suportados de importação e exportação
 
 ADIF, EDI, Cabrillo, Excel e JSON.
 
@@ -87,13 +83,13 @@ Na primeira execução, o Windows poderá apresentar um aviso de segurança por 
 
 Se aparecer a janela "O Windows protegeu o PC": 
 Confirme que descarregou a aplicação do repositório oficial. 
-Clique em Mais informações. 
-Clique em Executar mesmo assim. 
+Clique em 'Mais informações'. 
+Clique em 'Executar' mesmo assim. 
 
-Em algumas configurações, poderá ser necessário clicar com o botão direito em:
-ENI_VULogger.exe 
+Em algumas configurações, poderá ser necessário clicar com o botão direito no ficheiro executável:
+'ENI_VULogger.exe' 
 e seleccionar: 
-Propriedades 
+'Propriedades'
 
 Se aparecer a opção Desbloquear: 
 Marque Desbloquear. 
@@ -103,7 +99,7 @@ Execute novamente a aplicação.
 
 ## Requisitos
 
-A versão atual destina-se a: 
+A versão actual destina-se a: 
 
 Windows 10; 
 Windows 11; 
