@@ -50,9 +50,10 @@ ADIF, EDI, Cabrillo, Excel e JSON.
 - Outro concurso, com fator ×1 em todas as bandas 
 
 ## Descarregar a aplicação
-- No fundo desta página, descarregue o ficheiro com um nome semelhante a:
+- No fundo desta página, descarregue os ficheiros com nomes semelhantes a:
 
-ENI-VULogger_v0.25.1.1.zip
+- ENI-VULogger_v0.25.1.1.zip
+- Manual_ENI-VULogger_v0.25.1.1
 
 Atenção: não descarregue Source code (zip) nem Source code (tar.gz). Esses ficheiros contêm dados do projeto e não correspondem à aplicação pronta a executar.
 
