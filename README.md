@@ -20,11 +20,11 @@ Tema claro/escuro, janela de estatísticas e manual interno.
 
 ## Compatibilidade
 
-O ENI-VULogger é suportado em:
-- Windows 10
-- Windows 11
-- Sistemas x86 e x64
-- Windows ARM64 através de emulação
+O ENI-VULogger é suportado em: 
+- Windows 10 
+- Windows 11 
+- Sistemas x86 e x64 
+- Windows ARM64 através de emulação 
 
 O Windows 7 não é oficialmente suportado, devido ao fim do suporte do 
 Microsoft Edge WebView2 Runtime nesse sistema operativo.
@@ -39,15 +39,15 @@ ADIF, EDI, Cabrillo, Excel e JSON.
 
 ## Concursos suportados
 
-Dia de Portugal VHF/UHF — REP
-ARAM VHF/UHF - ARAM
-Combinado V/UHF — URE
-Segóvia EA1RCS V/UHF — URE
-Nacional V/UHF — URE
-Atlântico V/UHF — URE
-Costa del Sol V/UHF — URE
-QSL V/UHF — URE
-Outro concurso, com fator ×1 em todas as bandas
+Dia de Portugal VHF/UHF — REP 
+ARAM VHF/UHF - ARAM 
+Combinado V/UHF — URE 
+Segóvia EA1RCS V/UHF — URE 
+Nacional V/UHF — URE 
+Atlântico V/UHF — URE 
+Costa del Sol V/UHF — URE 
+QSL V/UHF — URE 
+Outro concurso, com fator ×1 em todas as bandas 
 
 ## Descarregar a aplicação
 Aceda à página Releases do ENI‑VULogger no GitHub.
@@ -86,30 +86,30 @@ extracção do .zip.
 Aviso de segurança do Windows:
 Na primeira execução, o Windows poderá apresentar um aviso de segurança por a aplicação ter sido descarregada da Internet.
 
-Se aparecer a janela "O Windows protegeu o PC":
-Confirme que descarregou a aplicação do repositório oficial.
-Clique em Mais informações.
-Clique em Executar mesmo assim.
+Se aparecer a janela "O Windows protegeu o PC": 
+Confirme que descarregou a aplicação do repositório oficial. 
+Clique em Mais informações. 
+Clique em Executar mesmo assim. 
 
 Em algumas configurações, poderá ser necessário clicar com o botão direito em:
-ENI_VULogger.exe
-e seleccionar:
-Propriedades
+ENI_VULogger.exe 
+e seleccionar: 
+Propriedades 
 
-Se aparecer a opção Desbloquear:
-Marque Desbloquear.
-Clique em Aplicar.
-Clique em OK.
-Execute novamente a aplicação.
+Se aparecer a opção Desbloquear: 
+Marque Desbloquear. 
+Clique em Aplicar. 
+Clique em OK. 
+Execute novamente a aplicação. 
 
 ## Requisitos
 
-A versão atual destina-se a:
+A versão atual destina-se a: 
 
-Windows 10;
-Windows 11;
-sistemas x86 e x64;
-Windows ARM64 através de emulação, dependendo da configuração do sistema.
+Windows 10; 
+Windows 11; 
+sistemas x86 e x64; 
+Windows ARM64 através de emulação, dependendo da configuração do sistema. 
 
 A aplicação utiliza o Microsoft Edge WebView2 Runtime. Se o WebView2 não estiver disponível, a janela da aplicação poderá não abrir corretamente.
 O Windows 7 e o Windows 8/8.1 não são oficialmente suportados.
@@ -118,14 +118,14 @@ O Windows 7 e o Windows 8/8.1 não são oficialmente suportados.
 
 Na primeira execução, preencha os dados de operação:
 
-indicativo;
-nome;
-QTH Locator;
-diferença entre a hora local e UTC;
-concurso;
-categoria do operador;
-potência;
-tipo de estação.
+indicativo; 
+nome; 
+QTH Locator; 
+diferença entre a hora local e UTC; 
+concurso; 
+categoria do operador; 
+potência; 
+tipo de estação. 
 
 Depois, clique em Guardar.
 
@@ -134,11 +134,11 @@ Botão "Configuração" ou premir a tecla F2
 
 # Criar um atalho
 
-Para criar um atalho no Ambiente de Trabalho:
-Clique com o botão direito em ENI_VULogger.exe.
-Seleccione "Mostrar mais opções", se necessário.
-Escolha "Enviar para".
-Seleccione "Ambiente de Trabalho — criar atalho".
+Para criar um atalho no Ambiente de Trabalho: 
+Clique com o botão direito em ENI_VULogger.exe. 
+Seleccione "Mostrar mais opções", se necessário. 
+Escolha "Enviar para". 
+Seleccione "Ambiente de Trabalho — criar atalho". 
 
 Não mova apenas o executável para o Ambiente de Trabalho. Use um atalho para que a aplicação continue a encontrar
 todos os ficheiros da pasta da aplicação.
