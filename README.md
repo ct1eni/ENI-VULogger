@@ -4,15 +4,15 @@ O ENI‑VULogger é uma aplicação gratuita destinada à participação dos Rad
 
 ## Funcionalidades
 
-Registo, edição, ordenação e eliminação de QSOs. 
-Data/hora automática e apresentação da hora local e da hora UTC configurada. 
-Cálculo da distância entre o locator da estação e o locator do correspondente. 
-Detecção (com informação visual) de contactos potencialmente duplicados. 
-Numeração STX automática por banda e conservação do SRX recebido. 
-Pontuação e multiplicadores apresentados por banda e no total. 
-Gravação e carregamento de QSOs em JSON. 
-Importação e exportação ADIF, EDI e Excel e exportação Cabrillo. 
-Tema claro/escuro, janela de estatísticas e manual interno.
+- Registo, edição, ordenação e eliminação de QSOs.
+- Data/hora automática e apresentação da hora local e da hora UTC configurada. 
+- Cálculo da distância entre o locator da estação e o locator do correspondente. 
+- Detecção (com informação visual) de contactos potencialmente duplicados. 
+- Numeração STX automática por banda e conservação do SRX recebido. 
+- Pontuação e multiplicadores apresentados por banda e no total. 
+- Gravação e carregamento de QSOs em JSON. 
+- Importação e exportação ADIF, EDI e Excel e exportação Cabrillo. 
+- Tema claro/escuro, janela de estatísticas e manual interno.
 
 ## Screenshot
 
@@ -39,20 +39,18 @@ ADIF, EDI, Cabrillo, Excel e JSON.
 
 ## Concursos suportados
 
-Dia de Portugal VHF/UHF — REP 
-ARAM VHF/UHF - ARAM 
-Combinado V/UHF — URE 
-Segóvia EA1RCS V/UHF — URE 
-Nacional V/UHF — URE 
-Atlântico V/UHF — URE 
-Costa del Sol V/UHF — URE 
-QSL V/UHF — URE 
-Outro concurso, com fator ×1 em todas as bandas 
+- Dia de Portugal VHF/UHF — REP 
+- ARAM VHF/UHF - ARAM 
+- Combinado V/UHF — URE 
+- Segóvia EA1RCS V/UHF — URE 
+- Nacional V/UHF — URE 
+- Atlântico V/UHF — URE 
+- Costa del Sol V/UHF — URE 
+- QSL V/UHF — URE 
+- Outro concurso, com fator ×1 em todas as bandas 
 
 ## Descarregar a aplicação
-Aceda à página Releases do ENI‑VULogger no GitHub.
-Abra a versão mais recente.
-Na secção Assets, descarregue o ficheiro com um nome semelhante a:
+- No fundo desta página, descarregue o ficheiro com um nome semelhante a:
 
 ENI-VULogger_v0.25.1.1.zip
 
@@ -62,11 +60,11 @@ Atenção: não descarregue Source code (zip) nem Source code (tar.gz). Esses fi
 
 Depois de concluir o download:
 
-Abra a pasta Transferências ou a pasta para onde o ficheiro foi gravado.
-Clique com o botão direito sobre o ficheiro ZIP.
-Seleccione Extrair tudo….
-Escolha a pasta de destino.
-Clique em Extrair.
+- Abra a pasta Transferências ou a pasta para onde o ficheiro foi gravado.
+- Clique com o botão direito sobre o ficheiro ZIP.
+- Seleccione 'Extrair tudo…'.
+- Escolha a pasta de destino.
+- Clique em 'Extrair'.
 
 Por exemplo:
 C:\ENI-VULogger\
