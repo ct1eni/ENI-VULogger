@@ -29,15 +29,11 @@ O ENI-VULogger é suportado em:
 O Windows 7 não é oficialmente suportado, devido ao fim do suporte do 
 Microsoft Edge WebView2 Runtime nesse sistema operativo.
 
-## Instalação e execução
-
-Instruções da versão portable em elaboração.
-
 ## Formatos suportados
 
 ADIF, EDI, Cabrillo, Excel e JSON.
 
-## Concursos suportados
+# Concursos suportados
 
 Dia de Portugal VHF/UHF — REP
 ARAM VHF/UHF - ARAM
@@ -49,16 +45,16 @@ Costa del Sol V/UHF — URE
 QSL V/UHF — URE
 Outro concurso, com fator ×1 em todas as bandas
 
-## Descarregar a aplicação
-Aceda à página Releases do ENI‑VULogger no GitHub.
-Abra a versão mais recente.
-Na secção Assets, descarregue o ficheiro com um nome semelhante a:
+# Descarregar a aplicação
+Navegue até ao final desta página e descarregue os ficheiros com nomes semelhante a:
 
-ENI-VULogger_v0.25.1.1.zip
+- ENI-VULogger_v0.25.1.1.zip
+- Manual_ENI-VULogger_v0.25.1.1.pdf
+
 
 Atenção: não descarregue Source code (zip) nem Source code (tar.gz). Esses ficheiros contêm dados do projeto e não correspondem à aplicação pronta a executar.
 
-# Extrair o ficheiro ZIP
+## Extrair o ficheiro ZIP
 
 Depois de concluir o download:
 
@@ -73,7 +69,7 @@ C:\ENI-VULogger\
 
 Não execute a aplicação diretamente dentro do ficheiro ZIP.
 
-# Executar a aplicação
+## Executar a aplicação
 
 Abra a pasta extraída e execute:
 
