@@ -174,7 +174,9 @@ CT1ENI — José Carlos Valério Ribeiro
 ## Downloads
 
 Todas as versões:
-[![Downloads - todas as versões](https://img.shields.io/github/downloads/CT1ENI/ENI-VULogger/total?style=for-the-badge&logo=github&label=Downloads)](https://github.com/CT1ENI/ENI-VULogger/releases)
+[![Downloads - todas as versões](https://img.shields.io/github/downloads/CT1ENI/ENI-VULogger/total?style=flat-square&logo=github&label=Downloads)](https://github.com/CT1ENI/ENI-VULogger/releases)
 
 Última versão:
-[![Downloads - última versão](https://img.shields.io/github/downloads/CT1ENI/ENI-VULogger/latest/total?style=for-the-badge&logo=github&label=Última%20versão](https://github.com/CT1ENI/ENI-VULogger/releases/latest)
+[![Downloads da última versão](https://img.shields.io/github/downloads/CT1ENI/ENI-VULogger/latest/total?style=flat-square&logo=github&label=Downloads%20última%20versão)](https://github.com/CT1ENI/ENI-VULogger/releases/latest)
+
+
