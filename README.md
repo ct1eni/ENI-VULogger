@@ -165,7 +165,7 @@ facilita a execução e a transferência da aplicação, mas não substitui as c
 
 ## Estado do projeto
 
-Versão em desenvolvimento constante.
+Aplicação em desenvolvimento constante.
 
 ## Autor
 
