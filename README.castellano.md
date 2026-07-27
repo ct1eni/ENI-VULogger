@@ -81,3 +81,11 @@ En la sección **Assets** de la versión correspondiente, descargue los ficheros
 ```text
 ENI-VULogger_v0.25.2.2.zip
 Manual_ENI-VULogger_v0.25.2.0.pdf
+```
+## Descargas
+
+Todas las versiones:
+[![Downloads - todas las versiones](https://img.shields.io/github/downloads/CT1ENI/ENI-VULogger/total?style=flat-square&logo=github&label=Downloads)](https://github.com/CT1ENI/ENI-VULogger/releases)
+
+Última version:
+[![Downloads - última version](https://img.shields.io/github/downloads/CT1ENI/ENI-VULogger/latest/total?style=flat-square&logo=github&label=Downloads%20última%20versão)](https://github.com/CT1ENI/ENI-VULogger/releases/latest)
