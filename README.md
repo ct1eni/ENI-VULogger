@@ -53,7 +53,7 @@ ADIF, EDI, Cabrillo, Excel e JSON.
 
 Atenção: não descarregue Source code (zip) nem Source code (tar.gz). Esses ficheiros contêm dados do projeto e não correspondem à aplicação pronta a executar.
 
-# Extrair o ficheiro ZIP
+## Extrair o ficheiro ZIP
 
 Depois de concluir o download:
 
@@ -68,7 +68,7 @@ C:\ENI-VULogger\
 
 Não execute a aplicação diretamente dentro do ficheiro ZIP.
 
-# Executar a aplicação
+## Executar a aplicação
 
 Abra a pasta extraída e execute:
 
@@ -127,7 +127,7 @@ Depois, clique em Guardar.
 A janela de configuração também pode ser aberta através de:
 Botão "Configuração" ou premir a tecla F2
 
-# Criar um atalho
+## Criar um atalho
 
 Para criar um atalho no Ambiente de Trabalho: 
 Clique com o botão direito em ENI_VULogger.exe. 
@@ -138,11 +138,11 @@ Seleccione "Ambiente de Trabalho — criar atalho".
 Não mova apenas o executável para o Ambiente de Trabalho. Use um atalho para que a aplicação continue a encontrar
 todos os ficheiros da pasta da aplicação.
 
-# Atualizar para uma nova versão
+## Actualizar para uma nova versão
 
 Antes de atualizar:
 Abra a versão atual.
-Use Gravar QSOs para criar uma cópia em formato JSON.
+Use "Gravar QSOs" para criar uma cópia em formato JSON.
 Exporte também a configuração do operador.
 Feche a aplicação.
 Descarregue a nova versão.
