@@ -42,14 +42,22 @@ ADIF, EDI, Cabrillo, Excel e JSON.
 - Nacional V/UHF — URE 
 - Atlântico V/UHF — URE 
 - Costa del Sol V/UHF — URE 
-- QSL V/UHF — URE 
+- QSL V/UHF — URE
+- IARU Region 1 VHF Contest (144 MHz)
+- IARU Region 1 UHF Contest (432 MHz)
+- IARU Region 1 SHF Contest (1296 e 2300 MHz)
+- Marconi Memorial VHF Contest
+- DARC VHF Contest
+- DARC UHF Contest
+- REF VHF Contest
+- ARI International 50 MHz Contest
 - Outro concurso, com fator ×1 em todas as bandas 
 
 ## Descarregar a aplicação
 - No fundo desta página, descarregue os ficheiros com nomes semelhantes a:
 
-- ENI-VULogger_v0.25.1.1.zip
-- Manual_ENI-VULogger_v0.25.1.1
+- ENI-VULogger_v0.26.0.0.zip
+- Manual_ENI-VULogger_v0.26.0.0
 
 Atenção: não descarregue Source code (zip) nem Source code (tar.gz). Esses ficheiros contêm dados do projeto e não correspondem à aplicação pronta a executar.
 
