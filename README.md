@@ -29,9 +29,13 @@ O ENI-VULogger é suportado em:
 O Windows 7 não é oficialmente suportado, devido ao fim do suporte do 
 Microsoft Edge WebView2 Runtime nesse sistema operativo.
 
-## Formatos suportados de importação e exportação
+## Formatos suportados de exportação
 
 ADIF, EDI, Cabrillo, Excel e JSON.
+
+## Formatos suportados de importação
+
+ADIF, EDI, Excel e JSON.
 
 ## Concursos suportados
 
