@@ -1,4 +1,13 @@
-[![README.english](https://github.com/ct1eni/ENI-VULogger/blob/main/README.english.md)
+<p align="center">
+  <a href="README.english.md">
+    <img src="https://img.shields.io/badge/🇬🇧-English-blue" alt="README English">
+  </a>
+<p></p>
+<p align="center">
+  <a href="README.castellano.md">
+    <img src="https://img.shields.io/badge/🇪🇸-Español-red" alt="README Español">
+  </a>
+</p>
 
 
 # ENI-VULogger
