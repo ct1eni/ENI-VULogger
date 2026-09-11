@@ -196,9 +196,11 @@ Application under continuous development.
 
 ### All Versions
 
-https://img.shields.io/github/downloads/CT1ENI/ENI-VULogger/total?style=flat-square&logo=github&label=Downloads
+All versions:
+[![Downloads - todas as versões](https://img.shields.io/github/downloads/CT1ENI/ENI-VULogger/total?style=flat-square&logo=github&label=Downloads)](https://github.com/CT1ENI/ENI-VULogger/releases)
 
-https://github.com/CT1ENI/ENI-VULogger/releases
+Last version:
+[![Downloads da última versão](https://img.shields.io/github/downloads/CT1ENI/ENI-VULogger/latest/total?style=flat-square&logo=github&label=Downloads%20última%20versão)](https://github.com/CT1ENI/ENI-VULogger/releases/latest)
 
 ### Latest Release
 
