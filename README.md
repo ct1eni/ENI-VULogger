@@ -1,4 +1,4 @@
-[![English versio of the README filel](https://github.com/ct1eni/ENI-VULogger/blob/main/README.english.md)
+[![English README filel](https://github.com/ct1eni/ENI-VULogger/blob/main/README.english.md)
 
 
 # ENI-VULogger
