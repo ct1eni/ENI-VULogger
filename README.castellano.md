@@ -1,7 +1,5 @@
 # ENI-VULogger
 
-**Idioma:** [🇵🇹 Português](README.md) | 🇪🇸 Castellano
-
 ENI‑VULogger es una aplicación gratuita destinada a la participación de radioaficionados en concursos de VHF y UHF. Ha sido desarrollada con el objetivo de ofrecer una interfaz intuitiva y fácil de utilizar, incorporando las funciones esenciales para la operación y el registro de contactos durante los concursos.
 
 Aunque el proyecto todavía se encuentra en fase de desarrollo, evoluciona continuamente con el objetivo principal de ampliar su compatibilidad con un número cada vez mayor de concursos e incorporar nuevas funciones que respondan a las necesidades de la comunidad de radioaficionados.
