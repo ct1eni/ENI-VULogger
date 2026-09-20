@@ -27,7 +27,7 @@ Aunque el proyecto todavía se encuentra en fase de desarrollo, evoluciona conti
 
 ## Captura de pantalla
 
-<img width="1238" height="596" alt="Pantalla principal de ENI-VULogger" src="https://github.com/user-attachments/assets/cbdaeb06-cabe-417c-aa26-af654b9c6e50">
+<img width="960" height="476" alt="ENI-VULogger_27" src="https://github.com/user-attachments/assets/cbf349ab-da7a-4bfc-b63f-35bf7c73e76e" />
 
 ## Compatibilidad
 
