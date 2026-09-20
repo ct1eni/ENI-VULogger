@@ -16,7 +16,7 @@ ENI-VULogger is a free application designed for amateur radio operators particip
 
 ## Screenshot
 
-<img width="1238" height="596" alt="ENI-VULogger Screenshot" src="https://github.com/user-attachments/assets/cbdaeb06-cabe-417c-aa26-af654b9c6e50" />
+<img width="960" height="476" alt="ENI-VULogger_27" src="https://github.com/user-attachments/assets/8ecc75a5-ea50-42e8-b6ef-c00e402e92a9" />
 
 ## Compatibility
 
