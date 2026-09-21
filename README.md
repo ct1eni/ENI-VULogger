@@ -28,7 +28,7 @@ O ENI‑VULogger é uma aplicação gratuita destinada à participação dos Rad
 
 ## Screenshot
 
-<img width="1238" height="596" alt="image" src="https://github.com/user-attachments/assets/cbdaeb06-cabe-417c-aa26-af654b9c6e50" />
+<img width="960" height="476" alt="ENI-VULogger_27" src="https://github.com/user-attachments/assets/ac9dde8e-eb11-4864-9fdd-f7eaed484ca1" />
 
 ## Compatibilidade
 
