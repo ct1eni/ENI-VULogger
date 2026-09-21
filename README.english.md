@@ -14,6 +14,11 @@ ENI-VULogger is a free application designed for amateur radio operators particip
 - ADIF, EDI, and Excel import/export, plus Cabrillo export.
 - Light/dark themes, statistics window, and built-in user manual.
 
+## Features to implement in future versions
+
+- CAT control
+- LOTW, ClubLog, eQSL, QRZ platforms upload.
+
 ## Screenshot
 
 <img width="960" height="476" alt="ENI-VULogger_27" src="https://github.com/user-attachments/assets/8ecc75a5-ea50-42e8-b6ef-c00e402e92a9" />
