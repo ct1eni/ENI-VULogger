@@ -25,6 +25,11 @@ Aunque el proyecto todavía se encuentra en fase de desarrollo, evoluciona conti
 - Manual interno.
 - Interfaz disponible en portugués, castellano e inglés.
 
+## Funciones a implementar en versiones futuras
+
+- Control CAT
+- Upload de QSOs para LOTW, ClubLog, eQSL, QRZ, etc.
+
 ## Captura de pantalla
 
 <img width="960" height="476" alt="ENI-VULogger_27" src="https://github.com/user-attachments/assets/cbf349ab-da7a-4bfc-b63f-35bf7c73e76e" />
