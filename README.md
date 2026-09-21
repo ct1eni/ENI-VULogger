@@ -26,6 +26,11 @@ O ENI‑VULogger é uma aplicação gratuita destinada à participação dos Rad
 - Importação e exportação ADIF, EDI e Excel e exportação Cabrillo. 
 - Tema claro/escuro, janela de estatísticas e manual interno.
 
+## Funcionalidades a implementar em futuras versões
+
+- Controlo CAT
+- Upload de QSOs para LOTW, ClubLog, eQSL, QRZ, etc.
+
 ## Screenshot
 
 <img width="960" height="476" alt="ENI-VULogger_27" src="https://github.com/user-attachments/assets/ac9dde8e-eb11-4864-9fdd-f7eaed484ca1" />
