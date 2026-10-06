@@ -5,6 +5,7 @@ ENI-VULogger is a free application designed for amateur radio operators particip
 ## Features
 
 - Add, edit, sort, and delete QSOs.
+- CAT control using OmniRig and FLRig.
 - Automatic date/time handling with display of local time and configured UTC time.
 - Distance calculation between the station locator and the correspondent's locator.
 - Detection of potentially duplicate contacts with visual indication.
@@ -16,12 +17,12 @@ ENI-VULogger is a free application designed for amateur radio operators particip
 
 ## Features to implement in future versions
 
-- CAT control
+- Extend CAT control with Hamlib
 - LOTW, ClubLog, eQSL, QRZ platforms upload.
 
 ## Screenshot
 
-<img width="960" height="476" alt="ENI-VULogger_27" src="https://github.com/user-attachments/assets/8ecc75a5-ea50-42e8-b6ef-c00e402e92a9" />
+<img width="1306" height="635" alt="image" src="https://github.com/user-attachments/assets/fb464b96-97de-4028-8458-6fc54526552c" />
 
 ## Compatibility
 
