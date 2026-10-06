@@ -17,6 +17,7 @@ O ENI‑VULogger é uma aplicação gratuita destinada à participação dos Rad
 ## Funcionalidades
 
 - Registo, edição, ordenação e eliminação de QSOs.
+- Controlo CAT através de OmniRig e FLRig
 - Data/hora automática e apresentação da hora local e da hora UTC configurada. 
 - Cálculo da distância entre o locator da estação e o locator do correspondente. 
 - Detecção (com informação visual) de contactos potencialmente duplicados. 
@@ -28,12 +29,12 @@ O ENI‑VULogger é uma aplicação gratuita destinada à participação dos Rad
 
 ## Funcionalidades a implementar em futuras versões
 
-- Controlo CAT
+- Extensão do controlo CAT a outros interfaces (ex: Hamlib).
 - Upload de QSOs para LOTW, ClubLog, eQSL, QRZ, etc.
 
 ## Screenshot
 
-<img width="960" height="476" alt="ENI-VULogger_27" src="https://github.com/user-attachments/assets/ac9dde8e-eb11-4864-9fdd-f7eaed484ca1" />
+<img width="1306" height="635" alt="image" src="https://github.com/user-attachments/assets/d2e0f59d-3059-457c-801f-46f846df2cb0" />
 
 ## Compatibilidade
 
