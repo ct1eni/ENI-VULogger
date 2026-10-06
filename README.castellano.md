@@ -7,6 +7,7 @@ Aunque el proyecto todavía se encuentra en fase de desarrollo, evoluciona conti
 ## Funciones
 
 - Registro, edición, ordenación y eliminación de QSOs.
+- Control CAT utilizando OmniRig y FLRig.
 - Actualización automática de la fecha y hora.
 - Presentación de la hora local y de la hora UTC.
 - Registro de la fecha y hora de los QSOs en UTC.
@@ -27,12 +28,12 @@ Aunque el proyecto todavía se encuentra en fase de desarrollo, evoluciona conti
 
 ## Funciones a implementar en versiones futuras
 
-- Control CAT
+- Extender el Control CAT a Hamlib.
 - Upload de QSOs para LOTW, ClubLog, eQSL, QRZ, etc.
 
 ## Captura de pantalla
 
-<img width="960" height="476" alt="ENI-VULogger_27" src="https://github.com/user-attachments/assets/cbf349ab-da7a-4bfc-b63f-35bf7c73e76e" />
+<img width="1306" height="635" alt="image" src="https://github.com/user-attachments/assets/e42a8935-1523-418c-84fb-fddbb03fdc90" />
 
 ## Compatibilidad
 
